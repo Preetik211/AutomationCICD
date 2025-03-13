@@ -29,7 +29,7 @@ import ShettyOrganization.pageObjects1.confirmationPage;
 import TestComponents.BaseTest;
 
 public class F3SubmitOrderTest extends BaseTest {
-
+	// new comments are added
 	String prodName = "ZARA COAT 3";
 
 	@Test(dataProvider="getData", groups= {"Purchase"})
